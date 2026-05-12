@@ -233,12 +233,19 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+### 512 Threads
 
 ![alt text](image-1.png)
 
+### 1023 Threads
+
 ![alt text](image-2.png)
 
+### 1024 Threads
+
 ![alt text](image-3.png)
+
+### 256 Threads
 
 ![alt text](image-4.png)
 ## RESULT:
